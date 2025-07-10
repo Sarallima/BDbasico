@@ -1,6 +1,6 @@
 # 📌Comandos Iniciais em MySQL
 🔗 [LinkedIn](https://www.linkedin.com/in/sara-lima-freitas/)
->**Este repositório contém comandos iniciais e funções básicas em MySQL, são fundamentos do banco de dados relacional.** 
+>**1-Comandos iniciais e funções básicas em MySQL.** 
 
 - Criação de banco de dados (CREATE DATABASE).
 
@@ -12,7 +12,7 @@
 
 - Consultas básicas para visualizar os dados inseridos (SELECT).
 
->**Comandos essenciais para manipulação e estruturação de dados.**
+>**2-Comandos essenciais para manipulação e estruturação de dados.**
 
 - ENUM: Define valores fixos e limitados para uma coluna.
 
